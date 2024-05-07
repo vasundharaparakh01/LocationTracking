@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  AdTrak
+
+  Created by sdnmacmini32 on 12/18/18.
+  Copyright © 2018 sdnmacmini32. All rights reserved.
+*/
+
+"APP_NAME"                  = "AdTrak";
+"USERNAME_ALERT"            = "Please enter username.";
+"PASSWORD_ALERT"            = "Please enter password.";
+"EMAIL_ALERT"               = "Please enter email.";
+"JOB_ID"                    = "Please enter jobId.";
+"INVALID_JOB_ID"            = "Please enter valid jobId.";
+"EMAIL_NOT_CORRECT"         = "Please enter valid email address.";
+"LOGOUT_MSG"                = "Are you sure you want to logout?";
+"STOP_TRACKING"             = "Are you sure you want to stop tracking?";
+"LOG_OUT_STOP_TRACKING"     = "Tracking is not stopped yet Please stop tracking and then logout";
+"MENU_HOME"                 = "Home";
+"START_DATE"                = "Start Date";
+"END_DATE"                  = "End Date";
+"MENU_HISTORY"              = "Tracking History";
+"ASSOCIATE"                =  "Associate";
+"MENU_LOG_OUT"              = "Logout";
+"START_LOCATION"            = "Start Location :";
+"STOP_LOCATION"             = "Stop Location :";
+"EMPTY_JOB_ID"              = "Please enter Job Id.";
+"ADD_COMMENT"               = "Do you want to add comment?";
+"FILTER_MSG"                = "Please select either job id or start date and end date";
+"COMMENT_TXT"               = "Please add comment";
+"SELECT_JOB_ID"             = "Please select Job Id.";
+"INCIDENT_TYPE"             = "Please select incident type.";
+"INCIDENT_DESCRIPTION"      = "Please add incident description.";
+"INCIDENT_TYPE_TXT"         = " Select Incident Type";
+"N0_CAMERA_ALERT"           = "Sorry, This device has no camera";
+"PHOTO_LIB"                 = "Photo Library";
+"CAMERA"                    = "Camera";
+"TRACK_STARTED"             = "Started";
+"TRACK_STOPED"              = "Stoped";
+"NO_INTERNET"               = "The internet connection appears to be offline.";
+"LOCATION_PERMISSION"       = "Please enable location services to 'Always' for this app.";
+"MAX_IMAGE_PICKER"          = "You cannnot send more than 5 images, Please delete another image before trying to select again.";

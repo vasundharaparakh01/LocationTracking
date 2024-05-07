@@ -1,0 +1,65 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.3.0)
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - GooglePlaces (2.7.0):
+    - GoogleMaps/Base (= 2.7.0)
+  - IQKeyboardManagerSwift (6.2.0)
+  - KMPlaceholderTextView (1.4.0)
+  - NVActivityIndicatorView (4.4.0):
+    - NVActivityIndicatorView/Presenter (= 4.4.0)
+  - NVActivityIndicatorView/Presenter (4.4.0)
+  - OpalImagePicker (1.5.0)
+  - Polyline (4.2.0)
+  - SDWebImage (4.4.3):
+    - SDWebImage/Core (= 4.4.3)
+  - SDWebImage/Core (4.4.3)
+  - SlideMenuControllerSwift (4.0.0)
+  - TKImageShowing (1.0.7):
+    - SDWebImage (~> 4.0)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0
+  - GoogleMaps
+  - GooglePlaces
+  - IQKeyboardManagerSwift
+  - KMPlaceholderTextView (~> 1.4.0)
+  - NVActivityIndicatorView
+  - OpalImagePicker (~> 1.5.0)
+  - Polyline (~> 4.0)
+  - SlideMenuControllerSwift
+  - TKImageShowing
+
+SPEC REPOS:
+  trunk:
+    - ActionSheetPicker-3.0
+    - GoogleMaps
+    - GooglePlaces
+    - IQKeyboardManagerSwift
+    - KMPlaceholderTextView
+    - NVActivityIndicatorView
+    - OpalImagePicker
+    - Polyline
+    - SDWebImage
+    - SlideMenuControllerSwift
+    - TKImageShowing
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: eef157d75e151f255c5333d26656c7fbfe905a51
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  GooglePlaces: 3d06e6c99654545b4738ce49648745779c25f2ef
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  KMPlaceholderTextView: 2206c3df39979e9396e2d96fa9f427a8951121b0
+  NVActivityIndicatorView: ec7440a57af2450319d3a4181cca7da6fc127064
+  OpalImagePicker: 0fb2caaa4386524eef1b7979aebebd3ad0a27ef1
+  Polyline: 3d69f75bb136357e27291d439d0436c6ebda57a4
+  SDWebImage: c5594f1a19c48d526d321e548902b56b479cd508
+  SlideMenuControllerSwift: 021d6318201c53d4d4d3710517d43d6c556c7dd0
+  TKImageShowing: a3ebf233a588a96a0d67596f3193abcc6b96bf22
+
+PODFILE CHECKSUM: 5252f686d08a1e8da7f44b984fed60ef1b0f34bc
+
+COCOAPODS: 1.14.3

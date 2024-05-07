@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  AdTrak
+
+  Created by sdnmacmini32 on 12/18/18.
+  Copyright © 2018 sdnmacmini32. All rights reserved.
+*/
+
+"USERNAME_ALERT" = "Username can't be empty.";
+"PASSWORD_ALERT" = "Password can't be empty.";

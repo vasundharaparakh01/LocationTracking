@@ -1,0 +1,21 @@
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "EJP-wW-jzR"; */
+"EJP-wW-jzR.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "Mlg-F9-Gdp"; */
+"Mlg-F9-Gdp.placeholder" = "Username";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "P4H-Zm-r2e"; */
+"P4H-Zm-r2e.normalTitle" = "Submit";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Tin-pX-L5K"; */
+"Tin-pX-L5K.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "Umt-Q3-mBR"; */
+"Umt-Q3-mBR.normalTitle" = "Forgot Password?";
+
+/* Class = "UIButton"; normalTitle = "Remember Me"; ObjectID = "eEs-ha-XOq"; */
+"eEs-ha-XOq.normalTitle" = "Remember Me";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "iDh-l2-RJX"; */
+"iDh-l2-RJX.normalTitle" = "Login";

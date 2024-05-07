@@ -1,0 +1,6 @@
+framework module Pods_AdTrakTests {
+  umbrella header "Pods-AdTrakTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

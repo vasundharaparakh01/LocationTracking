@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14460.32" systemVersion="17G65" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="UserLatLong" representedClassName="UserLatLong" syncable="YES" codeGenerationType="class">
+        <attribute name="data" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="jobId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lat" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="long" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="polyline" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="status" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="trackingid" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="joid" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="UserTracking" syncable="YES"/>
+    </entity>
+    <entity name="UserTracking" representedClassName="UserTracking" syncable="YES" codeGenerationType="class">
+        <attribute name="data" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="destinationname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="distance" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="enddatetime" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="endlocation" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isonline" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isonserver" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="istrackingfinish" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="jobid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="polygondistance" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="powerroutedistance" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sourcename" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="startdatetime" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="startlocation" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="trackingid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="travelledtime" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="UserLatLong" positionX="-54" positionY="108" width="128" height="165"/>
+        <element name="UserTracking" positionX="-63" positionY="-18" width="128" height="300"/>
+    </elements>
+</model>
